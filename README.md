@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan C. Derrido 👋
+# ¡Hola! Soy Juan C. Derrido
 
 **Administrador de Redes | Infraestructura IT | Desarrollo Backend & Web | Ciberseguridad**
 
